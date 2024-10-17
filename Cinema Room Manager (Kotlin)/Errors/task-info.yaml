@@ -1,0 +1,16 @@
+type: edu
+custom_name: Errors!
+files:
+  - name: src/cinema/Cinema.kt
+    visible: true
+    learner_created: false
+  - name: test/CinemaTests.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/50545#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Thu, 17 Oct 2024 14:05:49 UTC"
+record: -1

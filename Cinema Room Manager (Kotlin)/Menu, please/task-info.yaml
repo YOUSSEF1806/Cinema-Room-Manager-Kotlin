@@ -1,0 +1,15 @@
+type: edu
+custom_name: "Menu, please!"
+files:
+  - name: src/cinema/Cinema.kt
+    visible: true
+    learner_created: false
+  - name: test/CinemaTests.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/50561#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 16 Oct 2024 12:02:57 UTC"
+record: 4
